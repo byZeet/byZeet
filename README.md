@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cosmin
-- 👀 I’m interested in WebDeveloping
+- 👀 I’m interested in WebDeveloping, GFX, VFX & 3D Desing
 - 🌱 I’m currently learning HTML, CSS, Java & JS
 
 <!---
