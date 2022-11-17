@@ -11,6 +11,6 @@ D E S I G N
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,ae,pr)](https://skillicons.dev)
 
-F R O N T   E N D
+F R O N T - E N D
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
