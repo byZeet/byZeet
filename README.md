@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ## DESIGN
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,ae,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,figma,ae,pr)](https://skillicons.dev)
 
 ## FRONT END
 
