@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## FRONT END
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+## 3D
+
+[![My Skills](https://skillicons.dev/icons?i=blender,unreal)](https://skillicons.dev)
