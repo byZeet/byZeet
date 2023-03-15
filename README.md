@@ -6,7 +6,6 @@
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to listen music and play videogames / photography
 
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   
@@ -47,9 +46,9 @@
         <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
         <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
   </p>
-  </details> 
+ 
   
-  <details>
+  
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
   <p>
@@ -62,8 +61,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="byZeet's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=byZeet&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="140px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="byZeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="140px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="byZeet's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=byZeet&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="160px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="byZeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="160px"/></a>
 <br/>
 
-  </details>
+  
