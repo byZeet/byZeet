@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDeveloping, GFX, VFX & 3D Design
 - 🌱 I’m currently learning HTML, CSS, Java & JS
 
-<img src="https://gpvc.arturio.dev/rodri-afa" alt="Profile views" align='right'/> <a href="https://github.com/byZeet/byZeet/"> </a>
+<img src="https://gpvc.arturio.dev/byZeet" alt="Profile views" align='right'/> <a href="https://github.com/byZeet/byZeet/"> </a>
 
 <!---
 byZeet/byZeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
