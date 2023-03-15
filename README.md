@@ -1,30 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there, I'm Cosmin - AKA [byZeet] 👋 
 
+## I'm a Frontend Developer!
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=byZeet&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2023 Goals: Learn more about web3
+- ⚡ Fun fact: I love to listen music and play videogames / photography
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  
+  <h3>👨‍💻 FrontEnd</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=byZeet&icon=2&color=12)](https://visitcount.itsvg.in)
+  <p>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+   </p>
+  <h3>👨‍💻 BackEnd</h3>
+   <p>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+    </p>
+    
+<h3>🧰 Frameworks and Libraries</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <p>
+      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/electron-%23323330.svg?style=for-the-badge&logo=electron&logoColor=white"></a>
+  </p>
+  
+  
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-## DESIGN
+  <p>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-31A8FF.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd,figma,ae,pr)](https://skillicons.dev)
+  </p>
+  
+  <h3>💻 Software and Tools</h3>
+  <p>
+      <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
+        <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
+        <a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
+        <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+        <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
+        <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
+        <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+        <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
+  </p>
+  </details> 
+  
+  <details>
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/byZeet/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=byZeet&theme=dracula&hide_border=true&mode=weekly"/>
+    </a>
+  </p>
 
-## FRONT END
+  <h3>💻 GitHub Profile Stats</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="byZeet's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=byZeet&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="byZeet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
 
-## 3D
-
-[![My Skills](https://skillicons.dev/icons?i=blender,unreal)](https://skillicons.dev)
+  </details>
