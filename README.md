@@ -1,3 +1,7 @@
+![292dac33442fb6b97d2965cc42536133](https://github.com/byZeet/byZeet/assets/116768182/7cb57dd1-11b5-4336-9bc9-3593eeea214c)
+
+
+
 # Hi there, I'm Cosmin - AKA [byZeet] 👋 
 
 ## I'm a Frontend Student Developer!
