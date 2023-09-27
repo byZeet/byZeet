@@ -1,5 +1,5 @@
+![7926d8aed4d0fccba0c4496fccb26407](https://github.com/byZeet/byZeet/assets/116768182/540ab586-86ca-4402-8816-3b34a2eb8897)
 
-![Uploading 7926d8aed4d0fccba0c4496fccb26407.gif…]()
 
 # Hi there, I'm Cosmin - AKA [byZeet] 👋 
 
