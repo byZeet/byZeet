@@ -3,53 +3,6 @@
 # Hi there, I'm Cosmin - AKA [byZeet] 👋 
 
 ## I'm a Frontend Student Developer!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to listen music and play videogames / photography
-
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  
-  <h3>👨‍💻 FrontEnd</h3>
-
-  <p>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-   </p>
-  <h3>👨‍💻 BackEnd</h3>
-   <p>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
-    </p>
-    
-    <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
-      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/electron-%23323330.svg?style=for-the-badge&logo=electron&logoColor=white"></a>
-  </p>
-  
-  
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-31A8FF.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-
-  </p>
-  
-  <h3>💻 Software and Tools</h3>
-  <p>
-      <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
-        <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
-        <a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"></a>
-        <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-        <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
-        <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
-        <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-        <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
-  </p>
- 
-  
   
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <h3>🔥 Streak Stats</h3>
