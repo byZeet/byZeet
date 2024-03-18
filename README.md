@@ -71,7 +71,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://shop.bandai.co.uk/wp-content/uploads/2022/03/bandai-jujutsu-kaisen-collection-banner-001-1000x329.png"  />
+  <img height="200" src="https://i.pinimg.com/originals/74/95/76/749576142758d4cc79bd997fdcef6f48.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=byZeet" alt="Layout with last medium posts"  />
 </div>
 
 ###
