@@ -96,7 +96,7 @@
   
 Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/cosmin98) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cosmin98&cover_image=false&theme=default&show_offline=false&background_color=303030&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cosmin98&redirect=true)
 
 </div>
 
