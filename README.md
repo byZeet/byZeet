@@ -76,22 +76,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=react&hide_border=true" alt="byZeet's GitHub Streak">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byZeet&theme=react&show_icons=true&hide_border=true&count_private=true" alt="byZeet's GitHub Stats">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&layout=compact" alt="byZeet's Top Languages">
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byZeet)](https://github.com/byZeet/github-readme-stats)
 
 
 
