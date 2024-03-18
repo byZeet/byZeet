@@ -90,16 +90,6 @@
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
-
-[Discord]:               https://discord.com
-[Dirigeants]:            https://github.com/dirigeants
-[Veza]:                  https://github.com/kyranet/veza
-[Skyra Project]:         https://github.com/skyra-project
-[Skyra]:                 https://github.com/skyra-project/skyra
-[Twitter]:               https://twitter.com
-[my Discord server]:     https://join.skyra.pw
-[tweeting at me]:        https://twitter.com/kyranet_
 [`GitHub Readme Stats`]: https://github.com/byZeet/github-readme-stats
 
 ###
