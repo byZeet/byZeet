@@ -78,9 +78,9 @@
 
 ![byZeet's Stats](https://github-readme-stats.vercel.app/api?username=byZeet&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-![byZeet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=react&hide_border=true)
+![byZeet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=react&hide_border=true) ![byZeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![byZeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
