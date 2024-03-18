@@ -74,6 +74,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
+###
 
 ![byZeet's Stats](https://github-readme-stats.vercel.app/api?username=byZeet&theme=react&show_icons=true&hide_border=true&count_private=true)
 
@@ -81,9 +82,6 @@
 
 ![byZeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![](https://raw.githubusercontent.com/byZeet/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/byZeet/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=byZeet&style=for-the-badge)
 
 ###
