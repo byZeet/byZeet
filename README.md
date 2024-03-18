@@ -74,7 +74,8 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
+![byZeet's Stats](https://github-readme-stats.vercel.app/api?username=byZeet&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=byZeet)
+![](https://komarev.com/ghpvc/?username=byZeet&style=for-the-badge)
 
 ###
