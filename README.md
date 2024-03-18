@@ -76,9 +76,8 @@
 
 ###
 
-[![byZeet GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=byZeet&show_icons=true&theme=dark&custom_width=500#gh-dark-mode-only)](https://github.com/byZeet/github-readme-stats#gh-dark-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&layout=compact&custom_width=500)
-
-
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 ###
