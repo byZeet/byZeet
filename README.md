@@ -81,6 +81,9 @@
 
 ![byZeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&show_icons=true&hide_border=true&layout=compact)
 
+![](https://raw.githubusercontent.com/byZeet/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/byZeet/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ![](https://komarev.com/ghpvc/?username=byZeet&style=for-the-badge)
 
 ###
