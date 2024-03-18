@@ -77,9 +77,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&show_icons=true&hide_border=true&layout=compact" alt="byZeet's Top Languages" width="200">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=react&hide_border=true" alt="byZeet's Streak" width="200" height="500">
-  <img src="https://github-readme-stats.vercel.app/api?username=byZeet&theme=react&show_icons=true&hide_border=true&count_private=true" alt="byZeet's Stats" width="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&theme=react&show_icons=true&hide_border=true&layout=compact" alt="byZeet's Top Languages" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=react&hide_border=true" alt="byZeet's Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=byZeet&theme=react&show_icons=true&hide_border=true&count_private=true" alt="byZeet's Stats" width="400">
 </p>
 
 
