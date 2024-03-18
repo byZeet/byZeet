@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/4b/84/b1/4b84b1b5b40033e0a3a0bb2e22b7230d.gif"  />
+</div>
+
+###
+
 <p align="center">FrontEnd</p>
 
 ###
@@ -68,10 +74,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/74/95/76/749576142758d4cc79bd997fdcef6f48.gif"  />
-</div>
+![](https://komarev.com/ghpvc/?username=byZeet)
 
 ###
