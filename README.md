@@ -91,7 +91,13 @@
     </a>
 </p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
+<div align="center" width="50">
+  
+Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/byZeet) <br>
+
+</div>
 
 ###
