@@ -76,9 +76,5 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byzeet&show_icons=true&locale=en&layout=compact" alt="byzeet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byzeet&show_icons=true&locale=en" alt="byzeet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byzeet&" alt="byzeet" /></p>
 ###
