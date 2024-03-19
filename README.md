@@ -95,18 +95,22 @@
 
 
 #### Some stats!
-
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=byZeet&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
-</p>
-
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=byZeet&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=byZeet&theme=darcula&hide_border=true&background=FFFFFF00">
+  <a href="https://github.com/PrinceGoblinTech?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=byZeet&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" height="200" alt="@Goblin's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/PrinceGoblinTech?tab=stars">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=10" height="200" alt="@Goblin's github-readme-top-langs"/>
+  </a>
   <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=radical&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&border=58A6FF&stroke=58A6FF&dates=FFFFFF" height="200" alt="Streak" />
 </p>
+
+
+
+
+
+
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -114,6 +118,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=byZeet&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
 
 
 <div align="center" width="50">
