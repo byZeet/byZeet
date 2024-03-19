@@ -2,7 +2,28 @@
 
 ###
 
-<p align="left">Hello world! I'm an enthusiastic software developer dedicated to creating and designing exceptional digital experiences. My passion for learning new things and staying up-to-date with the latest trends constantly drives me to improve. I specialize in developing accessible and people-centered products, always seeking innovative ways to make technology more inclusive and meaningful for everyone.</p>
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Cosmin Robert</a></b>
+        </samp>
+</h3>
+<br>
+
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer from <b>Spain</b> 」
+                <br>
+                「 Focused on creating impactful web applications that improve lives</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Arduino -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a>
+</p>
 
 ###
 
