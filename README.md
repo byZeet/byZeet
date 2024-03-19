@@ -97,15 +97,14 @@
 #### Some stats!
 <p align="center">
   <a href="https://github.com/PrinceGoblinTech?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=byZeet&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" height="150" alt="@Goblin's github-readme-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=byZeet&show_icons=true&count_private=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=58A6FF" height="150" alt="@Goblin's github-readme-stats"/>
   </a>
   <a href="https://github.com/PrinceGoblinTech?tab=stars">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=10" height="150" alt="@Goblin's github-readme-top-langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byZeet&layout=compact&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=10&border_color=58A6FF" height="150" alt="@Goblin's github-readme-top-langs"/>
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=radical&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&stroke=58A6FF&dates=FFFFFF" height="150" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byZeet&theme=radical&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&border=58A6FF&stroke=58A6FF&dates=FFFFFF" height="150" alt="Streak" />
 </p>
-
 
 
 
