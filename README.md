@@ -19,10 +19,6 @@
                 <br>
                 <br>
         </samp>
-        <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-        </a>
 </p>
 
 ###
