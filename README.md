@@ -18,10 +18,7 @@
 </p>
 
 <div align="center" width="50">
-  
-"Currently vibing to: 🎧"  </strong></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cosmin98&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=86c0fe&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cosmin98&redirect=true)
 
 </div>
 
