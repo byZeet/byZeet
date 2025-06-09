@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,php,cs,mongodb,mysql,dotnet&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,php,cs,dotnet,mongodb,mysql&perline=7" />
   </a>
 </p>
 
