@@ -19,38 +19,59 @@
   Skills
 </h2>
 
-<p align="center"><b>FrontEnd</b></p>
+<!-- Frontend -->
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,blazor,react,nextjs,angular,ts,tailwind,bootstrap" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts,blazor,react,nextjs,angular,tailwind,bootstrap,daisyui" />
   </a>
 </p>
 
-<p align="center"><b>BackEnd</b></p>
+<!-- Backend -->
+<p align="center"><b>Backend</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,dotnet,php" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java,nodejs,php" />
   </a>
 </p>
 
-<p align="center"><b>Database Management System</b></p>
+<!-- Authentication & Services -->
+<p align="center"><b>Authentication & Services</b></p>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" />
+  </a>
+</p>
+
+<!-- Database -->
+<p align="center"><b>Database</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql" />
   </a>
 </p>
 
-<p align="center"><b>DevOps</b></p>
+<!-- DevOps -->
+<p align="center"><b>DevOps & Tools</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,nginx,npm,postman" />
   </a>
 </p>
 
-<p align="center"><b>Programs</b></p>
+<!-- IDEs & Engines -->
+<p align="center"><b>IDEs & Engines</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ps,xd,illustrator,ae,pr,figma,vscode,visualstudio,unity" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,eclipse,unity" />
+  </a>
+</p>
+
+<!-- Design Tools -->
+<p align="center"><b>Design Tools</b></p>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,xd,illustrator,ae,pr" />
   </a>
 </p>
 
