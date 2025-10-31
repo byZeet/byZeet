@@ -71,7 +71,7 @@
 <p align="center"><b>Design Tools</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,xd,illustrator,ae,pr" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,xd,illustrator" />
   </a>
 </p>
 
