@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-    「 I'm a web developer from <b>Spain</b> 」<br>
+    「 I'm a fullstack developer from <b>Spain</b> 」<br>
     「 Focused on creating impactful web applications that improve lives 」<br><br>
   </samp>
 </p>
@@ -23,7 +23,7 @@
 <p align="center"><b>Frontend</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts,blazor,react,nextjs,angular,tailwind,bootstrap,daisyui" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,scss,js,ts,blazor,react,angular,tailwind,bootstrap,daisyui" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <p align="center"><b>Backend</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,java,nodejs,php" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 <p align="center"><b>DevOps & Tools</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,nginx,npm,postman" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,nginx,npm,postman,docker" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 <p align="center"><b>IDEs & Engines</b></p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,eclipse,unity" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,unity" />
   </a>
 </p>
 
