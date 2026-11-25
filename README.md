@@ -47,3 +47,9 @@
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,unity" height="40" alt="Visual Studio Code, Visual Studio and Unity">
 </p>
+
+<p align="center"><strong>AI tools</strong></p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,ollama" height="40" alt="ChatGPT, Gemini and Ollama">
+</p>
