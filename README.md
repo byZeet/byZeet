@@ -30,6 +30,12 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,clerk,mongodb,mysql" height="40" alt="C#, .NET, Node.js, Clerk, MongoDB and MySQL">
 </p>
 
+<p align="center"><strong>Android development</strong></p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,kotlin,androidstudio" height="40" alt="Android, Kotlin and Android Studio">
+</p>
+
 <p align="center"><strong>Development &amp; deployment</strong></p>
 
 <p align="center">
@@ -45,11 +51,12 @@
 <p align="center"><strong>Editors &amp; engines</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,unity" height="40" alt="Visual Studio Code, Visual Studio and Unity">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,unity,antigravity,cursor" height="40" alt="Visual Studio Code, Visual Studio, Unity, Google Antigravity and Cursor">
+  <img src="https://raw.githubusercontent.com/stablyai/orca/7056540e0f56f10d291e5d37018d713c22a2c68b/resources/icon.png" height="40" alt="Orca" title="Orca">
 </p>
 
 <p align="center"><strong>AI tools</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,ollama" height="40" alt="ChatGPT, Gemini and Ollama">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,gemini,ollama,codex" height="40" alt="ChatGPT, Gemini, Ollama and Codex">
 </p>
