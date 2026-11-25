@@ -21,13 +21,15 @@
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,scss,js,ts,tailwind" height="40" alt="HTML, SCSS, JavaScript, TypeScript and Tailwind CSS">
   <br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,angular,blazor,bootstrap,daisyui" height="40" alt="React, Angular, Blazor, Bootstrap and daisyUI">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,angular,blazor" height="40" alt="React, Next.js, Angular and Blazor">
 </p>
 
 <p align="center"><strong>Backend &amp; data</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,clerk,mongodb,mysql" height="40" alt="C#, .NET, Node.js, Clerk, MongoDB and MySQL">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,clerk" height="40" alt="C#, .NET, Node.js and Clerk">
+  <br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql" height="40" alt="MongoDB, MySQL and PostgreSQL">
 </p>
 
 <p align="center"><strong>Android development</strong></p>
