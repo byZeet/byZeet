@@ -14,7 +14,9 @@
       .name { font-size: clamp(23px, 10.4vw, 40px); letter-spacing: -1px; }
     }
     @media (prefers-reduced-motion: no-preference) {
-      .typing-window { animation: type 1.45s steps(18, end) both; }
+      svg { --greeting-time: 1.45s; }
+      #typed .typing-window { animation: type var(--greeting-time) steps(18, end) both; }
+      #typed-name .typing-window { animation: type 1.1s steps(13, end) var(--greeting-time) both; }
       @keyframes type { from { transform: scaleX(0); } to { transform: scaleX(1); } }
     }
   </style>
@@ -22,7 +24,10 @@
     <clipPath id="typed" clipPathUnits="objectBoundingBox">
       <rect class="typing-window" width="1" height="1"/>
     </clipPath>
+    <clipPath id="typed-name" clipPathUnits="objectBoundingBox">
+      <rect class="typing-window" width="1" height="1"/>
+    </clipPath>
   </defs>
   <text class="hello" x="0" y="37" clip-path="url(#typed)">&gt; Hello there! I’m</text>
-  <text class="name" x="0" y="100">Cosmin Robert</text>
+  <text class="name" x="0" y="100" clip-path="url(#typed-name)">Cosmin Robert</text>
 </svg>
