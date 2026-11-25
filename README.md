@@ -1,12 +1,15 @@
 <img align="left" src="./avatar.png" width="30%" alt="Cosmin’s illustrated avatar, flashing a peace sign">
 
-<p><samp>&gt; Hello there! I’m</samp></p>
+<p>
+  <picture>
+    <source srcset="./assets/intro.svg">
+    <img src="./assets/intro.svg" width="60%" height="118" alt="Hello there! I’m Cosmin Robert.">
+  </picture>
+</p>
 
-<h1><a href="https://github.com/byZeet">Cosmin Robert</a></h1>
+<h3><samp>Full-stack developer from Spain</samp></h3>
 
-<h3>Full-stack developer from Spain</h3>
-
-<p>I build mobile and desktop apps with <strong>.NET MAUI</strong>, web apps with <strong>React and Next.js</strong>, and the <strong>C# APIs</strong> that power them.</p>
+<p><samp>I build mobile and desktop apps with <b>.NET MAUI</b>, web apps with <b>React and Next.js</b>, and the <b>C# APIs</b> that power them.</samp></p>
 
 <br clear="left">
 
