@@ -19,6 +19,6 @@
 <p align="center">
   <picture>
     <source media="(max-width: 620px)" srcset="./assets/skills-compact.svg">
-    <img src="./assets/skills.svg" width="100%" alt="Frontend: HTML, SCSS, JavaScript, TypeScript, Tailwind CSS, React, Next.js, Angular, Blazor. Backend: C#, .NET, Node.js, Clerk. Android: Android, Kotlin, Android Studio. Databases: MongoDB, MySQL, PostgreSQL. Development and deployment: Git, GitHub, npm, Postman, Docker, Nginx. Design: Figma, Photoshop, Adobe XD, Illustrator. Editors and engines: VS Code, Visual Studio, Unity, Antigravity, Cursor, Orca. AI tools: ChatGPT, Gemini, Ollama, Codex.">
+    <img src="./assets/skills.svg" width="100%" alt="Frontend: HTML, SCSS, JavaScript, TypeScript, Tailwind CSS, React, Next.js, Blazor. Backend: C#, .NET, Node.js, Clerk. Android: Android, Kotlin, Android Studio. Databases: MongoDB, MySQL, PostgreSQL. Development and deployment: Git, GitHub, npm, Postman, Docker, Nginx. Design: Figma, Photoshop, Adobe XD, Illustrator. Editors and engines: VS Code, Visual Studio, Unity, Antigravity, Cursor, Orca. AI tools: ChatGPT, Gemini, Ollama, Codex.">
   </picture>
 </p>
